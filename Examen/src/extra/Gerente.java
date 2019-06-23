@@ -1,4 +1,4 @@
-package operacion;
+package extra;
 
 public class Gerente extends Trabajador{
 	private float grado;
